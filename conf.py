@@ -34,7 +34,7 @@ extensions = [
     "sphinx_rtd_theme",
 ]
 
-# language = "en"
+language = "zh_CN"
 master_doc = 'index'
 
 # Add any paths that contain templates here, relative to this directory.
